@@ -11,12 +11,8 @@
             "id": "af6679cad86bf5cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/SQL/Операторы/SELECT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/SQL/Операторы/SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/SQL/Операторы/SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/SQL/Операторы/SELECT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,25 +140,31 @@
   },
   "active": "af6679cad86bf5cf",
   "lastOpenFiles": [
+    "Education/SQL/Операторы/AS.md",
+    "Education/SQL/Операторы/BETWEEN.md",
+    "Education/SQL/Операторы/DISTINCT.md",
+    "Education/SQL/Операторы/IN.md",
+    "Education/SQL/Операторы/SELECT.md",
+    "Education/SQL/Операторы/ISNULL.md",
+    "Education/SQL/Операторы/WHERE.md",
     "Education/SQL/Функции/YEAR.md",
     "Education/SQL/Функции/UPPER.md",
     "Education/SQL/Функции/LOWER.md",
     "Education/SQL/Функции/LENGTH.md",
     "Education/SQL/Функции/INSTR.md",
     "Education/SQL/Функции/Функции.md",
+    "Education/SQL/Прочее/Формат даты и времени.md",
+    "Education/SQL/Прочее/Операторы сравнения.md",
+    "Education/SQL/Прочее/Логические операторы.md",
+    "Education/SQL/Прочее/Литералы.md",
+    "Education/SQL/Прочее/Арифметические операции.md",
     "Education/SQL/Функции/AVERAGE.md",
     "Ссылка.md",
-    "Education/SQL/Операторы/SELECT.md",
-    "Education/SQL/Операторы/AS.md",
-    "Education/SQL/Прочее/Арифметические операции.md",
-    "Education/SQL/Прочее/Литералы.md",
-    "Education/SQL/Прочее/Формат даты и времени.md",
     "Education/SQL/Без названия.md",
     "Education/SQL/Функции",
     "Templates/Education template.md",
     "Education.md",
     "Templates/Без названия.md",
-    "Education/SQL/Прочее/Без названия.md",
     "Education/SQL/Прочее/Без названия 1.md",
     "Формат даты и времени.md",
     "Education/SQL/Прочее",
@@ -174,8 +172,6 @@
     "Education/SQL/Операторы",
     "Без названия.canvas",
     "Templates",
-    "Добро пожаловать.md",
-    "создайте ссылку.md",
     "Education/SQL",
     "Education",
     "Cashe"
