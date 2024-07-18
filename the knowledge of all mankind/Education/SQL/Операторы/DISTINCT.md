@@ -10,6 +10,12 @@ tags:
 ## Описание
 Оператор `DISTINCT` используется для получения уникальных значений из поля.
 
+Синтаксис:
+```sql
+SELECT [DISTINCT] поля_таблиц FROM наименование_таблицы;
+```
+
+Пример:
 ```sql
 SELECT DISTINCT class FROM Student_in_class;
 ```

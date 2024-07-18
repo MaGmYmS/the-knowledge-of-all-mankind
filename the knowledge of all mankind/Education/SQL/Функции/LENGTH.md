@@ -10,6 +10,7 @@ tags:
 ## Описание
 Возвращает длину указанной строки.
 
+Пример:
 ```sql
 SELECT LENGTH('sql-academy') AS str_length;
 ```

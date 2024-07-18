@@ -12,6 +12,14 @@ tags:
 - `ASC` - сортировка по возрастанию (по умолчанию)
 - `DESC` - сортировка по убыванию
 
+Синтаксис:
+```sql
+SELECT поля_таблиц FROM наименование_таблицы
+WHERE ...
+ORDER BY столбец_1 [ASC | DESC][, столбец_n [ASC | DESC]]
+```
+
+Пример:
 ```sql
 SELECT name FROM Company ORDER BY name;
 ```
